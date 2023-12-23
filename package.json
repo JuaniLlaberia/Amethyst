@@ -1,0 +1,29 @@
+{
+  "name": "nebula",
+  "displayName": "Nebula",
+  "description": "A modern, dark purple theme for VS Code",
+  "version": "0.0.1",
+  "publisher": "ao2m4zq4a3xcwyxl7xslwvfyaqjdcbwcno7o7c3xcspu7uxmf6oa",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "nebula"
+  ],
+  "repository": {},
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nebula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nebula-color-theme.json"
+      }
+    ]
+  }
+}
