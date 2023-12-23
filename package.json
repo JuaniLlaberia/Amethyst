@@ -14,7 +14,7 @@
     "vscode",
     "theme",
     "dark",
-    "nebula"
+    "amethyst"
   ],
   "icon": "images/icon.png",
   "repository": {
@@ -24,7 +24,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nebula",
+        "label": "Amethyst",
         "uiTheme": "vs-dark",
         "path": "./themes/Amethyst-color-theme.json"
       }

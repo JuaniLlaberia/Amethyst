@@ -1,5 +1,5 @@
 {
-  "name": "Amethyst",
+  "name": "Amethyst Theme",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1871,7 +1871,7 @@
     "diffEditor.insertedTextBackground": "#9bb95533",
     "diffEditor.removedTextBackground": "#ff000033",
     "diffEditor.border": "#444444",
-    "panel.background": "#151414",
+    "panel.background": "#15111f",
     "panel.border": "#8080804c",
     "panelTitle.activeBorder": "#ffffff",
     "panelTitle.activeForeground": "#ffffff",
@@ -1883,7 +1883,7 @@
     "terminalCursor.background": "#ffffff",
     "terminalCursor.foreground": "#000000",
     "terminal.border": "#80808059",
-    "terminal.ansiBlack": "#000000",
+    "terminal.ansiBlack": "#5c5c5c",
     "terminal.ansiBlue": "#2472c8",
     "terminal.ansiBrightBlack": "#666666",
     "terminal.ansiBrightBlue": "#3b8eea",
