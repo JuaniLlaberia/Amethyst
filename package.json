@@ -1,9 +1,9 @@
 {
-  "name": "nebula",
-  "displayName": "Nebula",
+  "name": "amethyst-dark-theme",
+  "displayName": "Amethyst Theme",
   "description": "A modern, dark purple theme for VS Code",
   "version": "0.0.1",
-  "publisher": "ao2m4zq4a3xcwyxl7xslwvfyaqjdcbwcno7o7c3xcspu7uxmf6oa",
+  "publisher": "JuanILlaberia",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -16,13 +16,17 @@
     "dark",
     "nebula"
   ],
-  "repository": {},
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JuaniLlaberia/Amethyst"
+  },
   "contributes": {
     "themes": [
       {
         "label": "Nebula",
         "uiTheme": "vs-dark",
-        "path": "./themes/Nebula-color-theme.json"
+        "path": "./themes/Amethyst-color-theme.json"
       }
     ]
   }
