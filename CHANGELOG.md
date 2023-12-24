@@ -1,9 +1,12 @@
 # Change Log
 
-All notable changes to the "arkides-theme" extension will be documented in this file.
+All notable changes to the "amethyst-dark-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.0]
 
-## [Unreleased]
+- Full version available.
+- Bug fixes.
 
-- Initial release
+## [0.0.1-alpha]
+
+- Initial release.
