@@ -15,3 +15,8 @@ A modern, dark purple theme for [VS Code](https://code.visualstudio.com/).
 3. Click **Install** to install the theme.
 4. Click **Reload** to reload your editor.
 5. Settings icon > Themes > Color Theme > **Amethyst Theme**.
+
+##  Get it now
+[Amethyst Theme  VS Code Extension](https://marketplace.visualstudio.com/items?itemName=JuanILlaberia.amethyst-dark-theme)
+
+[Amethyst Theme](https://amethyst-theme.netlify.app/)
